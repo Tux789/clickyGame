@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "Space Cat",
+        "src": "./images/cat1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 1,
+        "name": "Jeph",
+        "src": "./images/myUglyMug.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Uncomfy Headphones",
+        "src": "./images/tech2.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "10:15 to Utica",
+        "src": "./images/train.png",
+        "clicked": false
+    }
+]
